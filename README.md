@@ -1,0 +1,2 @@
+# PiashCoalWebsite
+This website was developed for Piash Coal Enterprise, a company of Narayanganj, Bangladesh. This website has all the basic information, contact, gallery and basic pages. It features a dynamic page of the latest prices of the products of the company which were pulled from the database and their headings and dates were also dynamic (pulled from database). This website has an admin panel system for the owner to update, add or delete a product and its related images to the website.
