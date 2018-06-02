@@ -1,0 +1,67 @@
+[07-Jun-2016 14:46:58 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 14:46:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 14:46:58 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 14:47:17 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 14:47:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 14:47:17 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 14:47:27 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:05:02 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 15:05:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 15:05:02 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:05:13 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:06:06 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:06:54 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:06:55 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:08:45 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:12:57 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:42:03 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 15:43:09 UTC] PHP Fatal error:  Class 'mysql' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:24:23 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:24:35 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:24:37 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:24:38 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:01 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:03 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:04 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:05 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:12 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:14 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:25:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:25:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:25:25 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:25:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:25:25 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:26:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:26:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:26:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:26:56 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:26:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:26:56 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:27:18 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:27:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:27:18 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:27:45 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:27:45 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:27:45 UTC] PHP Fatal error:  Class 'mysqli' not found in /home/piashcoal/public_html/dbconfig.php on line 6
+[07-Jun-2016 16:28:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:28:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:06 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:41 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:42 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 16:35:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 18:26:21 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 18:26:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 18:26:25 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 18:26:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:5) in /home/piashcoal/public_html/auth.php on line 6
+[07-Jun-2016 18:30:24 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:2) in /home/piashcoal/public_html/auth.php on line 3
+[07-Jun-2016 18:30:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:2) in /home/piashcoal/public_html/auth.php on line 3
+[07-Jun-2016 18:30:36 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/piashcoal/public_html/auth.php:2) in /home/piashcoal/public_html/auth.php on line 3
+[07-Jun-2016 18:30:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/auth.php:2) in /home/piashcoal/public_html/auth.php on line 3
+[07-Jun-2016 18:32:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/admin.php:5) in /home/piashcoal/public_html/admin.php on line 6
+[07-Jun-2016 18:33:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/updateproduct.php:5) in /home/piashcoal/public_html/updateproduct.php on line 6
+[07-Jun-2016 18:34:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/piashcoal/public_html/updateproduct.php:5) in /home/piashcoal/public_html/updateproduct.php on line 6
